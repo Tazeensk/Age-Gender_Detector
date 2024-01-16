@@ -18,6 +18,17 @@ The project consists of a machine learning model trained on a specific dataset, 
 8.Click on the "Detect" button to initiate the analysis process.
 9.Review the results displayed on the interface to obtain insights into the detected age and gender of the individual in the uploaded image.
 
-
+https://github.com/Tazeensk/Age-Gender_Detector/blob/main/Output1.png
+## Sample Outputs:
+### Sample Output 1:
+![Sample Output 1](https://github.com/Tazeensk/Age-Gender_Detector/blob/main/Output1.png)
+### Sample Output 2:
+![Sample Output 2](https://github.com/Tazeensk/Age-Gender_Detector/blob/main/output2.png)
+### Sample Output 3:
+![Sample Output 3](https://github.com/Tazeensk/Age-Gender_Detector/blob/main/output3.png)
+### Sample Output 4:
+![Sample Output 4](https://github.com/Tazeensk/Age-Gender_Detector/blob/main/output4.png)
+### Sample Output 4:
+![Sample Output 4](https://github.com/Tazeensk/Age-Gender_Detector/blob/main/output5.png)
 
 
